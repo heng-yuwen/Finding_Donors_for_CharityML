@@ -16,6 +16,9 @@ The projects is combined with 3 parts:
 2. Train and evalute the model performance;
 3. Choose the best model and improve the results;
 
+## Project Jupyter Notebook
+The main code of this project is in the file [finding_donors.ipynb](https://github.com/hyw1994/Finding_Donors_for_CharityML/blob/master/finding_donors.ipynb)
+
 ## Dataset Description
 The dataset is in the file [census.csv](https://github.com/hyw1994/Finding_Donors_for_CharityML/blob/master/census.csv).
 
@@ -38,6 +41,3 @@ The features and target used are listed below:
 
 **Target Variable**
 - `income`: Income Class (<=50K, >50K)
-
-## Project Jupyter Notebook
-The main code of this project is in the file [finding_donors.ipynb]()
