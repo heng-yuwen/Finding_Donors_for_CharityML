@@ -1,19 +1,16 @@
-# Data Scientist Nanodegree
-# Supervised Learning
-## Project: Finding Donors for CharityML
+# Finding_Donors_for_CharityML by Udacity
 
-### Install
+## Table of Contents
 
-This project requires **Python 3.x** and the following Python libraries installed:
+- [Project Description](#project-description)
+- [Project Jupyter Notebook](#project-jupyter-notebook)
+- [Command Line Training Application](#command-line-training-application)
+- [Command Line Predict Application](#command-line-predicting-application)
 
-- [NumPy](http://www.numpy.org/)
-- [Pandas](http://pandas.pydata.org)
-- [matplotlib](http://matplotlib.org/)
-- [scikit-learn](http://scikit-learn.org/stable/)
+## Project Description
 
-You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
+This project is aimed to find out the most possible donor for a particular charity by estimate the income level of people based on the information includes personal information, incomings and outgoings information and education information.
 
-We recommend students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
 
 ### Code
 
